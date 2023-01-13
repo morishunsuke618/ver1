@@ -1,9 +1,9 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.6.1)  12 JAN 2023 18:55
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.6.1)  13 JAN 2023 01:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**c:/Users/BL19103/Documents/lab/graduation-research-BL10193/2Q/resume
-(c:/Users/BL19103/Documents/lab/graduation-research-BL10193/2Q/resume.tex
+**c:/Users/BL19103/Documents/lab/graduation-research-BL10193/ver1/resume
+(c:/Users/BL19103/Documents/lab/graduation-research-BL10193/ver1/resume.tex
 pLaTeX2e <2021-11-15> (based on LaTeX2e <2021-11-15> patch level 1)
 L3 programming layer <2022-05-30> (./hitsotsuron.cls (c:/texlive/2022/texmf-dist/tex/platex/base/jarticle.cls
 Document Class: jarticle 2020/09/30 v1.8f Standard pLaTeX class
@@ -395,13 +395,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 ...ludegraphics[width=0.9\linewidth]{tex1.png}
+l.7 ...ludegraphics[width=0.9\linewidth]{tex1.png}
                                                   
 ? 
 ! Emergency stop.
  ...                                              
                                                   
-l.6 ...ludegraphics[width=0.9\linewidth]{tex1.png}
+l.7 ...ludegraphics[width=0.9\linewidth]{tex1.png}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -409,10 +409,10 @@ If that doesn't work, type  X <return>  to quit.
  
 Here is how much of TeX's memory you used:
  4055 strings out of 478752
- 58120 string characters out of 5860229
- 366596 words of memory out of 5000000
+ 58126 string characters out of 5860229
+ 366594 words of memory out of 5000000
  22430 multiletter control sequences out of 15000+600000
  477557 words of font info for 55 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 70i,11n,76p,1635b,342s stack positions out of 10000i,1000n,20000p,200000b,200000s
-Output written on resume.dvi (1 page, 10068 bytes).
+ 70i,11n,76p,1637b,342s stack positions out of 10000i,1000n,20000p,200000b,200000s
+Output written on resume.dvi (1 page, 10060 bytes).
